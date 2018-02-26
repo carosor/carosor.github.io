@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on Caroline Sorin</title>
+    <link>http://carolinesorin.com/about/</link>
+    <description>Recent content in Abouts on Caroline Sorin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 30 Nov 2017 19:10:09 +0100</lastBuildDate>
+    
+	<atom:link href="http://carolinesorin.com/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>http://carolinesorin.com/about/about_en/</link>
+      <pubDate>Thu, 30 Nov 2017 19:10:09 +0100</pubDate>
+      
+      <guid>http://carolinesorin.com/about/about_en/</guid>
+      <description>Caroline Sorin
+Graphic Design
+hello@carolinesorin.com
+I like books and words, social science and lemon pies.
+ Ongoing Master’s degree in Graphic Design at the HEAR (Haute École des Arts du Rhin), Strasbourg
+Exchange semester at the Willem de Kooning Academy, Rotterdam, Graphic Design department
+August 2017 to February 2018
+Bachelor in Graphic Design at the HEAR, Strasbourg
+June 2017
+Degree obtained with Honours
+ Part of the collective exhibition Haunted by Algorithms curated by Jeff Guess and Gwenola Wagon at the Galerie Ygrec, Paris</description>
+    </item>
+    
+    <item>
+      <title>À propos</title>
+      <link>http://carolinesorin.com/about/about_fr/</link>
+      <pubDate>Thu, 30 Nov 2017 19:10:09 +0100</pubDate>
+      
+      <guid>http://carolinesorin.com/about/about_fr/</guid>
+      <description>Caroline Sorin
+Design graphique
+hello@carolinesorin.com
+J’aime les livres et les mots, la sociologie et les tartes au citron.
+ Actuellement en quatrième année Communication graphique à la HEAR (Haute École des Arts du Rhin), Strasbourg
+Semestre d’échange à la Willem de Kooning Academy, Rotterdam, section Graphic Design
+août 2017 - février 2018
+DNAP Communication graphique à la HEAR (Haute École des Arts du Rhin), Strasbourg
+juin 2017
+Mention pour la qualité du travail éditorial</description>
+    </item>
+    
+  </channel>
+</rss>
