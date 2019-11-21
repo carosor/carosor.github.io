@@ -212,7 +212,7 @@ une div de description du contenu (et titre), une div de liens vers d'autres
 projets et une ou plusieurs images.*/
 .desc {
     max-width: 380px;
-    padding: 20px;
+    padding: 15px;
     /*border: solid 1px;
     grid-area: d;*/
 }
@@ -258,23 +258,13 @@ projets et une ou plusieurs images.*/
     margin: 0;*/
 }
 
-
-
-/*.img2 {
+.img-border {
     max-width: 100%;
     z-index: -1;
-    grid-area: ii;
-    position: absolute;
-    margin: 0;
+    border: solid black 1px;
 }
 
-.img3 {
-    max-width: 100%;
-    z-index: -1;
-    grid-area: iii;
-    position: absolute;
-    margin: 0;
-}*/
+
 
 
 

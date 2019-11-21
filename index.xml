@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Caroline Sorin</title>
-    <link>http://carolinesorin.com/</link>
+    <link>https://carolinesorin.com/</link>
     <description>Recent content on Caroline Sorin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 11 Jan 2018 18:32:46 +0100</lastBuildDate>
     
-	<atom:link href="http://carolinesorin.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://carolinesorin.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Not in my Backyard</title>
-      <link>http://carolinesorin.com/en/backyard/</link>
+      <link>https://carolinesorin.com/en/backyard/</link>
       <pubDate>Thu, 11 Jan 2018 18:32:46 +0100</pubDate>
       
-      <guid>http://carolinesorin.com/en/backyard/</guid>
+      <guid>https://carolinesorin.com/en/backyard/</guid>
       <description>Not in my Backyard In 2013, an abandoned train station in a wealthy neighborhood of Paris is about to be replaced by a block of council flats despite the loud opposition of its neighbors. A few weeks before the works begin, I went there to immortalize this urban wasteland, symbol of the class war in the 16th arrondissement.
 20 x 28 cm, 16 pages, digital print, saddle stitch binding, 2013</description>
     </item>
     
     <item>
       <title>Not in my Backyard</title>
-      <link>http://carolinesorin.com/fr/backyard/</link>
+      <link>https://carolinesorin.com/fr/backyard/</link>
       <pubDate>Thu, 11 Jan 2018 18:32:46 +0100</pubDate>
       
-      <guid>http://carolinesorin.com/fr/backyard/</guid>
+      <guid>https://carolinesorin.com/fr/backyard/</guid>
       <description>Not in my Backyard En 2013, le site de l&amp;rsquo;ancienne gare d&amp;rsquo;Auteuil, à l&amp;rsquo;abandon depuis plusieurs dizaines d&amp;rsquo;années, est sur le point de laisser la place à un projet immobilier HLM malgré l&amp;rsquo;opposition des riverains qui déposent des recours depuis 2009. Quelques mois avant le début des travaux, je suis allée immortaliser ce bout de friche, objet de discorde et symbole de la lutte des classes dans le seizième arrondissement.</description>
     </item>
     
     <item>
       <title>Mash Up</title>
-      <link>http://carolinesorin.com/en/archi/</link>
+      <link>https://carolinesorin.com/en/archi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://carolinesorin.com/en/archi/</guid>
+      <guid>https://carolinesorin.com/en/archi/</guid>
       <description> Mash Up Engraving on plexiglass, 60 x 80 cm, 25 unique prints, 2013 Printed at the Ateliers de Sèvres with the help of Olivier Moriette.
 And twenty-one digital patterns (created from personal architecture drawings), 2013
     Other projects:
@@ -49,10 +49,10 @@ Dérive
     
     <item>
       <title>Mash Up</title>
-      <link>http://carolinesorin.com/fr/archi/</link>
+      <link>https://carolinesorin.com/fr/archi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://carolinesorin.com/fr/archi/</guid>
+      <guid>https://carolinesorin.com/fr/archi/</guid>
       <description> Mash Up Pointe sèche sur plexiglas, 60 x 80 cm, vingt-cinq tirages uniques, 2013
 Imprimé aux Ateliers de Sèvres avec l’aide d’Olivier Moriette
 Et vingt-et-un motifs numériques (créés à partir de dessins d&amp;rsquo;architecture personnels), 2013
@@ -61,15 +61,16 @@ Exemplaires
 The Belgian Cookbook
 The Machine in the Ghost
 Lato
+Dérive
     </description>
     </item>
     
     <item>
       <title>Donne-moi tout ton argent</title>
-      <link>http://carolinesorin.com/en/argent/</link>
+      <link>https://carolinesorin.com/en/argent/</link>
       <pubDate>Thu, 11 Jan 2018 18:33:29 +0100</pubDate>
       
-      <guid>http://carolinesorin.com/en/argent/</guid>
+      <guid>https://carolinesorin.com/en/argent/</guid>
       <description> Donne-moi tout ton argent (Give me all your money)
 A magazine made with Andréa Corvo. An analytical approach of a French mall and its uses.
 21 x 29,7 cm, 50 pages, laser and silkscreen print, perfect binding, 2015
@@ -84,29 +85,29 @@ Exemplaires
     
     <item>
       <title>Donne-moi tout ton argent</title>
-      <link>http://carolinesorin.com/fr/argent/</link>
+      <link>https://carolinesorin.com/fr/argent/</link>
       <pubDate>Thu, 11 Jan 2018 18:33:29 +0100</pubDate>
       
-      <guid>http://carolinesorin.com/fr/argent/</guid>
-      <description> Donne-moi tout ton argent Magazine réalisé à quatre mains avec Andréa Corvo. Une enquête anthropologique au centre commercial.
+      <guid>https://carolinesorin.com/fr/argent/</guid>
+      <description>Donne-moi tout ton argent Magazine réalisé à quatre mains avec Andréa Corvo. Une enquête anthropologique au centre commercial.
 21 x 29,7 cm, 50 pages, impression laser et sérigraphie, dos carré-collé, dix exemplaires, 2015
 Textes et mise en page : Andréa Corvo &amp;amp; Caroline Sorin
 Dessins : Caroline Sorin
 Photographies : Andréa Corvo
+Suivi : Jérôme Saint-Loubert Bié
  Autres projets :
 Intra-muros
 Confiture
 Not in my Backyard
-Top 10 Italia
-   </description>
+Top 10 Italia</description>
     </item>
     
     <item>
       <title>Dérive</title>
-      <link>http://carolinesorin.com/en/derive/</link>
+      <link>https://carolinesorin.com/en/derive/</link>
       <pubDate>Thu, 11 Jan 2018 18:33:56 +0100</pubDate>
       
-      <guid>http://carolinesorin.com/en/derive/</guid>
+      <guid>https://carolinesorin.com/en/derive/</guid>
       <description>  Dérive I chose not to choose. A reflexive look on where I come from and why I’m here.
 This book was made from personal archives (drawings and photographs) and failed silkscreen prints.
 21 x 21 cm, 22 pages, laser and silkscreen print, perfect binding, 2015
@@ -120,10 +121,10 @@ Exemplaires
     
     <item>
       <title>Dérive</title>
-      <link>http://carolinesorin.com/fr/derive/</link>
+      <link>https://carolinesorin.com/fr/derive/</link>
       <pubDate>Thu, 11 Jan 2018 18:33:56 +0100</pubDate>
       
-      <guid>http://carolinesorin.com/fr/derive/</guid>
+      <guid>https://carolinesorin.com/fr/derive/</guid>
       <description>  Dérive Choisir de ne pas choisir. Une réflexion sur d’où je viens et pourquoi je suis là. Regarder le chemin parcouru pour mieux voir où l&amp;rsquo;on va.
 Édition faite à partir d&amp;rsquo;archives personnelles (photographies et dessins) et de tirages sérigraphiques ratés.
 21 x 21 cm, 22 pages, impression laser et sérigraphie, dos carré-collé, 2015
@@ -131,15 +132,16 @@ Exemplaires
 92 110
 Image manquante
 Long-Distance Memories
+Exemplaires
   </description>
     </item>
     
     <item>
       <title>The Belgian Cookbook</title>
-      <link>http://carolinesorin.com/en/belgian/</link>
+      <link>https://carolinesorin.com/en/belgian/</link>
       <pubDate>Thu, 11 Jan 2018 18:32:20 +0100</pubDate>
       
-      <guid>http://carolinesorin.com/en/belgian/</guid>
+      <guid>https://carolinesorin.com/en/belgian/</guid>
       <description>The Belgian Cookbook Fifteen connected students worked on the same Framapad, trying out print design with web tools.
 Workshop under the direction of Stéphanie Vilayphiou and Colm O’Neill from OSP. Project made with So-Hyun Bae.
 10,5 x 14,8 cm, 300 index cards and a paper box, laser print, 2015
@@ -155,10 +157,10 @@ Mash Up</description>
     
     <item>
       <title>The Belgian Cookbook</title>
-      <link>http://carolinesorin.com/fr/belgian/</link>
+      <link>https://carolinesorin.com/fr/belgian/</link>
       <pubDate>Thu, 11 Jan 2018 18:32:20 +0100</pubDate>
       
-      <guid>http://carolinesorin.com/fr/belgian/</guid>
+      <guid>https://carolinesorin.com/fr/belgian/</guid>
       <description>The Belgian Cookbook À partir d’un texte donné et sur le même Framapad, quinze étudiants connectés expérimentent la mise en page papier avec les outils du web. Workshop dirigé par Stéphanie Vilayphiou et Colm O’Neill de OSP. Projet réalisé avec So-Hyun Bae.
 10,5 x 14,8 cm, 300 cartes et une boîte en papier, 2015
  À propos du workshop :
@@ -172,10 +174,10 @@ The Machine in the Ghost</description>
     
     <item>
       <title>Lato</title>
-      <link>http://carolinesorin.com/en/lato/</link>
+      <link>https://carolinesorin.com/en/lato/</link>
       <pubDate>Thu, 11 Jan 2018 18:18:42 +0100</pubDate>
       
-      <guid>http://carolinesorin.com/en/lato/</guid>
+      <guid>https://carolinesorin.com/en/lato/</guid>
       <description>Lato - A Small Open Source Dictionary Typographic specimen, poster and booklet at the same time. Presenting words of the open source world and their definitions, using the Lato free font.
 20 posters-booklets of 29,7 x 42 cm (flat) and 10,5 x 14,8 cm when folded, laser print, 2016
     Other projects:
@@ -189,25 +191,25 @@ Long-Distance Memories
     
     <item>
       <title>Lato</title>
-      <link>http://carolinesorin.com/fr/lato/</link>
+      <link>https://carolinesorin.com/fr/lato/</link>
       <pubDate>Thu, 11 Jan 2018 18:18:42 +0100</pubDate>
       
-      <guid>http://carolinesorin.com/fr/lato/</guid>
+      <guid>https://carolinesorin.com/fr/lato/</guid>
       <description>Lato - Petit dictionnaire de l’open source Spécimen typographique bilingue pour la typographie libre Lato, à la fois poster recto verso et livret présentant une sélection de mots clés de l’open source et leur définition.
 20 livrets-posters, 29,7 x 42 cm à plat et 10,5 x 14,8 cm plié, impression laser, 2016
+Suivi : Yohanna-My Nguyen
     Autres projets :
 Exemplaires
 The Belgian Cookbook
-The Machine in the Ghost
-Mash up</description>
+The Machine in the Ghost</description>
     </item>
     
     <item>
       <title>92110</title>
-      <link>http://carolinesorin.com/en/92110/</link>
+      <link>https://carolinesorin.com/en/92110/</link>
       <pubDate>Thu, 11 Jan 2018 18:31:46 +0100</pubDate>
       
-      <guid>http://carolinesorin.com/en/92110/</guid>
+      <guid>https://carolinesorin.com/en/92110/</guid>
       <description>92 110 Coming back to a childhood city where I never really lived, looking for beauty and memories in the suburban landscape.
 Digital photographies, 2015
     Other projects:
@@ -220,25 +222,26 @@ Intra-muros
     
     <item>
       <title>92110</title>
-      <link>http://carolinesorin.com/fr/92110/</link>
+      <link>https://carolinesorin.com/fr/92110/</link>
       <pubDate>Thu, 11 Jan 2018 18:31:46 +0100</pubDate>
       
-      <guid>http://carolinesorin.com/fr/92110/</guid>
+      <guid>https://carolinesorin.com/fr/92110/</guid>
       <description>92 110 Reportage photographique à Clichy-la-Garenne, ville d’enfance longtemps détestée, aujourd’hui désertée. Quand il ne reste que le soleil sur le bitume et le souvenir des rires entre les voitures.
 photographies numériques, 2015 - 2017
     Autres projets:
 Image manquante
 Long-Distance Memories
 Dérive
+Intra-muros
      </description>
     </item>
     
     <item>
       <title>Top 10 Italia</title>
-      <link>http://carolinesorin.com/en/italia/</link>
+      <link>https://carolinesorin.com/en/italia/</link>
       <pubDate>Thu, 11 Jan 2018 18:31:20 +0100</pubDate>
       
-      <guid>http://carolinesorin.com/en/italia/</guid>
+      <guid>https://carolinesorin.com/en/italia/</guid>
       <description>  Top 10 Italia A typographic specimen of the Italia font, using emblematic lyrics of famous Italian pop songs of the eighties to present the typeface. The size of the extracts depends on the selling numbers of the artist.
 18 x 27 cm, laser print, saddle stitch binding, 2017
     Other projects:
@@ -252,55 +255,57 @@ Lato
     
     <item>
       <title>Top 10 Italia</title>
-      <link>http://carolinesorin.com/fr/italia/</link>
+      <link>https://carolinesorin.com/fr/italia/</link>
       <pubDate>Thu, 11 Jan 2018 18:31:20 +0100</pubDate>
       
-      <guid>http://carolinesorin.com/fr/italia/</guid>
+      <guid>https://carolinesorin.com/fr/italia/</guid>
       <description>  Top 10 Italia Spécimen typographique reprenant des paroles emblématiques de chansons italiennes des années 80 ainsi que leur traduction approximative. La taille des textes est proportionnelle au nombre de ventes de l’artiste.
 18 x 27 cm, impression numérique laser, reliure trois points, 2017
+Suivi : Yohanna-My Nguyen
     Autres projets :
 Intra-muros
 Confiture
 Donne-moi tout ton argent
 Not in my Backyard
+Lato
   </description>
     </item>
     
     <item>
       <title>The Machine in the Ghost</title>
-      <link>http://carolinesorin.com/en/machine/</link>
+      <link>https://carolinesorin.com/en/machine/</link>
       <pubDate>Thu, 11 Jan 2018 18:31:06 +0100</pubDate>
       
-      <guid>http://carolinesorin.com/en/machine/</guid>
+      <guid>https://carolinesorin.com/en/machine/</guid>
       <description>The Machine in the Ghost A book confronting the ghosts of the past with those of the present. Putting myself in the shoes of an early 20th century medium, I too, manipulate pictures to show the world the utlimate proof that spirits are all around us (and especially in our computers).
 Book presented during the exhibition Haunted by Algorithms curated by Jeff Guess and Gwenola Wagon, at Galerie Ygrec](http://www.</description>
     </item>
     
     <item>
       <title>The Machine in the Ghost</title>
-      <link>http://carolinesorin.com/fr/machine/</link>
+      <link>https://carolinesorin.com/fr/machine/</link>
       <pubDate>Thu, 11 Jan 2018 18:31:06 +0100</pubDate>
       
-      <guid>http://carolinesorin.com/fr/machine/</guid>
+      <guid>https://carolinesorin.com/fr/machine/</guid>
       <description>The Machine in the Ghost Confronter les fantômes et les regards à un siècle de distance. Manipuler les images, à la manière d’un médium du XIXe siècle, en laissant l’ordinateur révéler la présence d’esprits et créer de nouveaux fantômes faits de données détériorées.
 Livre présenté dans le cadre de l’exposition Haunted by Algorithms créée par Jeff Guess et Gwenola Wagon à la Galerie Ygrec, Paris (du 21 janvier au 5 mars 2017).</description>
     </item>
     
     <item>
       <title>Confiture</title>
-      <link>http://carolinesorin.com/en/confiture/</link>
+      <link>https://carolinesorin.com/en/confiture/</link>
       <pubDate>Thu, 30 Nov 2017 17:26:49 +0100</pubDate>
       
-      <guid>http://carolinesorin.com/en/confiture/</guid>
+      <guid>https://carolinesorin.com/en/confiture/</guid>
       <description>Confiture Confiture (which means “jam” in French) is a project for a periodical publication focusing on social, cultural and visual studies. It aims at analysing popular cultural practices in the present world and societies. Each issue is dedicated to a different question such as cultural legitimacy, digital communities or matters of representation in pop culture. The title refers to a French idiomatic expression basically saying that the less one knows, the more one brags about.</description>
     </item>
     
     <item>
       <title>Confiture</title>
-      <link>http://carolinesorin.com/fr/confiture/</link>
+      <link>https://carolinesorin.com/fr/confiture/</link>
       <pubDate>Thu, 30 Nov 2017 17:26:49 +0100</pubDate>
       
-      <guid>http://carolinesorin.com/fr/confiture/</guid>
+      <guid>https://carolinesorin.com/fr/confiture/</guid>
       <description>Confiture Confiture est un projet de revue de sociologie culturelle. Au croisement des visual et cultural studies, elle se propose d’analyser la culture et en particulier les cultures populaires ou marginales.
 Le numéro zéro porte sur les questions de légitimité culturelle, le premier ira questionner la culture à l’ère d’Internet et le deuxième, les problématiques de représentation dans la culture populaire.
 Les textes ont été collectés sur openedition.org.
@@ -309,10 +314,10 @@ Les textes ont été collectés sur openedition.org.
     
     <item>
       <title>Image manquante</title>
-      <link>http://carolinesorin.com/en/manquant/</link>
+      <link>https://carolinesorin.com/en/manquant/</link>
       <pubDate>Wed, 13 Dec 2017 18:35:37 +0100</pubDate>
       
-      <guid>http://carolinesorin.com/en/manquant/</guid>
+      <guid>https://carolinesorin.com/en/manquant/</guid>
       <description>Image manquante Going through my archives, I selected the negatives of photographs that didn’t come out. Labelled as failed by the photo laboratory, they were not printed. By scanning and enlarging them, I gave them an existence.
 Project made during a workshop with David De Beyter
 21 x 29,7, 4 booklets of 16 images, laser printed, 2017
@@ -326,10 +331,10 @@ Confiture
     
     <item>
       <title>Image manquante</title>
-      <link>http://carolinesorin.com/fr/manquant/</link>
+      <link>https://carolinesorin.com/fr/manquant/</link>
       <pubDate>Wed, 13 Dec 2017 18:35:37 +0100</pubDate>
       
-      <guid>http://carolinesorin.com/fr/manquant/</guid>
+      <guid>https://carolinesorin.com/fr/manquant/</guid>
       <description>Image manquante Fouillant parmi mes archives, j’ai sélectionné les négatifs de photos jugées ratées par le laboratoire qui les a développées et pour lesquelles je n’ai donc aucun tirage. En les scannant et agrandissant, j’ai découvert et redonné vie à ces images non-conformes.
 Projet réalisé dans le cadre d&amp;rsquo;un workshop avec David De Beyter
 21 x 29,7 cm, 4 livrets de 16 images, impression numérique laser, 2017
@@ -338,10 +343,10 @@ Projet réalisé dans le cadre d&amp;rsquo;un workshop avec David De Beyter
     
     <item>
       <title>Long-Distance Memories</title>
-      <link>http://carolinesorin.com/en/longdistance/</link>
+      <link>https://carolinesorin.com/en/longdistance/</link>
       <pubDate>Thu, 11 Jan 2018 18:30:38 +0100</pubDate>
       
-      <guid>http://carolinesorin.com/en/longdistance/</guid>
+      <guid>https://carolinesorin.com/en/longdistance/</guid>
       <description>  Long-Distance Memories I go on a virtual journey through memories, pictures and Google Street View, to places where I have lived. Secretly hoping to find traces of what I left of me there.
 Photographs, video (13min), sound, 2017
   Other projects:
@@ -354,43 +359,45 @@ The Machine in the Ghost
     
     <item>
       <title>Long-Distance Memories</title>
-      <link>http://carolinesorin.com/fr/longdistance/</link>
+      <link>https://carolinesorin.com/fr/longdistance/</link>
       <pubDate>Thu, 11 Jan 2018 18:30:38 +0100</pubDate>
       
-      <guid>http://carolinesorin.com/fr/longdistance/</guid>
+      <guid>https://carolinesorin.com/fr/longdistance/</guid>
       <description>  Long-Distance Memories J’embarque pour un voyage virtuel à travers photos d&amp;rsquo;enfance, souvenirs et Google Street View vers les endroits où j’ai vécu, espérant y retrouver des traces de mon passage.
 Dimensions variables, photos, vidéo (13min), son, 2017
+Suivi : Laura Henno
   Autres projets :
 92 110
 Image manquante
 Dérive
+The Machine in the Ghost
    </description>
     </item>
     
     <item>
       <title>Exemplaires</title>
-      <link>http://carolinesorin.com/en/exemplaires/</link>
+      <link>https://carolinesorin.com/en/exemplaires/</link>
       <pubDate>Wed, 13 Dec 2017 18:34:04 +0100</pubDate>
       
-      <guid>http://carolinesorin.com/en/exemplaires/</guid>
+      <guid>https://carolinesorin.com/en/exemplaires/</guid>
       <description>Imprimer l&amp;rsquo;exposition Catalogue produced for the 2017 biennal &amp;ldquo;Exemplaires, formes et pratiques de l’édition” (Exemplars, forms and practices in publishing). It presents the book selection of the Hear (on the topic of the exhibition catalogue). Analytical texts and reproductions of the books are accompanied by three interviews with artists and graphic designers. This project is a teamwork where we all four created the content (words and pictures) and designed the form.</description>
     </item>
     
     <item>
       <title>Exemplaires</title>
-      <link>http://carolinesorin.com/fr/exemplaires/</link>
+      <link>https://carolinesorin.com/fr/exemplaires/</link>
       <pubDate>Wed, 13 Dec 2017 18:34:04 +0100</pubDate>
       
-      <guid>http://carolinesorin.com/fr/exemplaires/</guid>
-      <description>Imprimer l&amp;rsquo;exposition Catalogue réalisé pour la deuxième édition de la biennale &amp;ldquo;Exemplaires, formes et pratiques de l’édition”, présentant la sélection d&amp;rsquo;ouvrages de la HEAR (sur le thème du catalogue d&amp;rsquo;exposition). Les textes d&amp;rsquo;analyse et photographies des objets retenus sont accompagnés de trois entretiens avec des artistes et graphistes à l&amp;rsquo;origine de certains des ouvrages présentés. Ce projet est un travail d’équipe pour lequel nous avons toutes créé la forme et le contenu (textes et images).</description>
+      <guid>https://carolinesorin.com/fr/exemplaires/</guid>
+      <description>Imprimer l&amp;rsquo;exposition Catalogue réalisé pour la deuxième édition de la biennale &amp;ldquo;Exemplaires, formes et pratiques de l’édition&amp;rdquo;, présentant la sélection d&amp;rsquo;ouvrages de la HEAR (sur le thème du catalogue d&amp;rsquo;exposition). Les textes d&amp;rsquo;analyse et photographies des objets retenus sont accompagnés de trois entretiens avec des artistes et graphistes à l&amp;rsquo;origine de certains des ouvrages présentés. Ce projet est un travail d’équipe pour lequel nous avons toutes créé la forme et le contenu (textes et images).</description>
     </item>
     
     <item>
       <title>Intra-muros</title>
-      <link>http://carolinesorin.com/en/intramuros/</link>
+      <link>https://carolinesorin.com/en/intramuros/</link>
       <pubDate>Wed, 29 Nov 2017 18:11:05 +0100</pubDate>
       
-      <guid>http://carolinesorin.com/en/intramuros/</guid>
+      <guid>https://carolinesorin.com/en/intramuros/</guid>
       <description> Other projects:
 Confiture
 Donne-moi tout ton argent
@@ -404,34 +411,138 @@ Mash Up
     
     <item>
       <title>Intra-muros</title>
-      <link>http://carolinesorin.com/fr/intramuros/</link>
+      <link>https://carolinesorin.com/fr/intramuros/</link>
       <pubDate>Wed, 29 Nov 2017 18:11:05 +0100</pubDate>
       
-      <guid>http://carolinesorin.com/fr/intramuros/</guid>
+      <guid>https://carolinesorin.com/fr/intramuros/</guid>
       <description>Autres projets :
 Confiture
 Donne-moi tout ton argent
 Not in my Backyard
 Top 10 Italia
+Mash Up
  Intra-muros Où finit Paris ? Où commence la banlieue ? La frontière administrative est-elle la seule trace du passage d’une ville à l’autre ? Depuis cette ligne invisible, j’ai photographié chaque côté de la ville à l’endroit où elle change de nom.
 21 x 29,7 cm, 40 pages, impression numérique laser, piqûre à cheval, 2017</description>
     </item>
     
     <item>
+      <title>Is this you in the video?</title>
+      <link>https://carolinesorin.com/en/aram/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://carolinesorin.com/en/aram/</guid>
+      <description>Is this you in the video? Communication for Aram Bartholl&amp;rsquo;s exhibition at La Chaufferie, Strasbourg.
+Poster 60 x 80 cm, invitation 29,7 x 42 cm (flat), digital communication, 2018
+     Other projects :
+Exemplaires
+Lato
+The Machine in the Ghost
+Mash Up
+  </description>
+    </item>
+    
+    <item>
+      <title>Is this you in the video?</title>
+      <link>https://carolinesorin.com/fr/aram/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://carolinesorin.com/fr/aram/</guid>
+      <description>Is this you in the video? Communication pour l’exposition d’Aram Bartholl à La Chaufferie, Strasbourg.
+Affiche 60 x 80 cm, invitation 29,7 x 42 cm (dépliée), bannières numériques, 2018
+Suivi : Jérôme Saint-Loubert Bié
+     Autres projets :
+Exemplaires
+Lato
+The Machine in the Ghost
+Mash Up
+  </description>
+    </item>
+    
+    <item>
+      <title>Ailleurs</title>
+      <link>https://carolinesorin.com/fr/ailleurs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://carolinesorin.com/fr/ailleurs/</guid>
+      <description>Ailleurs Rapport d&amp;rsquo;échange et rapport de stage documentant de façon plus ou moins précise mes aventures européennes.
+ Rotterdam : 12 x 15 cm, 42 pages, impression numérique laser, reliure spirale, 2018
+ Munich : 9,5 x 21 cm, 20 pages, impression numérique laser, 2018
+   Autres projets :
+The Belgian Cookbook
+Top 10 Italia
+Image manquante
+Long-Distance Memories
+    </description>
+    </item>
+    
+    <item>
+      <title>Elsewhere</title>
+      <link>https://carolinesorin.com/en/ailleurs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://carolinesorin.com/en/ailleurs/</guid>
+      <description>Elsewhere Internship and exchange reports loosely documenting my European adventures.
+ Rotterdam : 12 x 15 cm, 42 pages, digital printing, wire o binding, 2018
+ Munich : 9,5 x 21 cm, 20 pages, digital printing, 2018
+   Other projects :
+The Belgian Cookbook
+Top 10 Italia
+Image manquante
+Long-Distance Memories
+    </description>
+    </item>
+    
+    <item>
+      <title>Crossing</title>
+      <link>https://carolinesorin.com/en/crossing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://carolinesorin.com/en/crossing/</guid>
+      <description>Crossing Graphic design for the second issue of Volkswagen Group Culture magazine.
+Writing: Nansen &amp;amp; Piccard
+Artistic direction: Alexis Zurflüh and Ludwig Haslberger
+21,5 x 28 cm, 64 pages, offset printing, Swiss binding, 2018
+    Other projects :
+Ailleurs
+Lato
+The Machine in the Ghost
+Is this you in the video?
+   </description>
+    </item>
+    
+    <item>
+      <title>Crossing</title>
+      <link>https://carolinesorin.com/fr/crossing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://carolinesorin.com/fr/crossing/</guid>
+      <description>Crossing Design graphique pour le deuxième numéro du magazine culturel édité par Volkswagen.
+Rédaction : Nansen &amp;amp; Piccard
+Direction artistique : Alexis Zurflüh et Ludwig Haslberger
+21,5 x 28 cm, 64 pages, impression offset, reliure suisse, 2018
+    Autres projets :
+Ailleurs
+Lato
+The Machine in the Ghost
+Is this you in the video?
+   </description>
+    </item>
+    
+    <item>
       <title>Home</title>
-      <link>http://carolinesorin.com/en/home/</link>
+      <link>https://carolinesorin.com/en/home/</link>
       <pubDate>Thu, 11 Jan 2018 18:31:46 +0100</pubDate>
       
-      <guid>http://carolinesorin.com/en/home/</guid>
+      <guid>https://carolinesorin.com/en/home/</guid>
       <description></description>
     </item>
     
     <item>
       <title>About</title>
-      <link>http://carolinesorin.com/about/about_en/</link>
+      <link>https://carolinesorin.com/about/about_en/</link>
       <pubDate>Thu, 30 Nov 2017 19:10:09 +0100</pubDate>
       
-      <guid>http://carolinesorin.com/about/about_en/</guid>
+      <guid>https://carolinesorin.com/about/about_en/</guid>
       <description>Master&amp;rsquo;s degree in Graphic Design at the HEAR (Haute École des Arts du Rhin), Strasbourg
 June 2019
 Exchange semester at the Willem de Kooning Academy, Rotterdam, Graphic Design department
@@ -446,10 +557,10 @@ Visual communication for Is this you in the video?</description>
     
     <item>
       <title>À propos</title>
-      <link>http://carolinesorin.com/about/about_fr/</link>
+      <link>https://carolinesorin.com/about/about_fr/</link>
       <pubDate>Thu, 30 Nov 2017 19:10:09 +0100</pubDate>
       
-      <guid>http://carolinesorin.com/about/about_fr/</guid>
+      <guid>https://carolinesorin.com/about/about_fr/</guid>
       <description>DNSEP Communication graphique (félicitations) à la HEAR (Haute école des arts du Rhin), Strasbourg
 juin 2019
 Semestre d’échange à la Willem de Kooning Academy, Rotterdam, section Graphic Design

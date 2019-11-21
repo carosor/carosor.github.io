@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Abouts on Caroline Sorin</title>
-    <link>http://carolinesorin.com/about/</link>
+    <link>https://carolinesorin.com/about/</link>
     <description>Recent content in Abouts on Caroline Sorin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 30 Nov 2017 19:10:09 +0100</lastBuildDate>
     
-	<atom:link href="http://carolinesorin.com/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://carolinesorin.com/about/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>http://carolinesorin.com/about/about_en/</link>
+      <link>https://carolinesorin.com/about/about_en/</link>
       <pubDate>Thu, 30 Nov 2017 19:10:09 +0100</pubDate>
       
-      <guid>http://carolinesorin.com/about/about_en/</guid>
+      <guid>https://carolinesorin.com/about/about_en/</guid>
       <description>Master&amp;rsquo;s degree in Graphic Design at the HEAR (Haute École des Arts du Rhin), Strasbourg
 June 2019
 Exchange semester at the Willem de Kooning Academy, Rotterdam, Graphic Design department
@@ -31,10 +31,10 @@ Visual communication for Is this you in the video?</description>
     
     <item>
       <title>À propos</title>
-      <link>http://carolinesorin.com/about/about_fr/</link>
+      <link>https://carolinesorin.com/about/about_fr/</link>
       <pubDate>Thu, 30 Nov 2017 19:10:09 +0100</pubDate>
       
-      <guid>http://carolinesorin.com/about/about_fr/</guid>
+      <guid>https://carolinesorin.com/about/about_fr/</guid>
       <description>DNSEP Communication graphique (félicitations) à la HEAR (Haute école des arts du Rhin), Strasbourg
 juin 2019
 Semestre d’échange à la Willem de Kooning Academy, Rotterdam, section Graphic Design

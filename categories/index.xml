@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Caroline Sorin</title>
-    <link>http://carolinesorin.com/categories/</link>
+    <link>https://carolinesorin.com/categories/</link>
     <description>Recent content in Categories on Caroline Sorin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://carolinesorin.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://carolinesorin.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
