@@ -267,6 +267,9 @@ footer {
     display: none;
 }
 
+.img-horizontal {
+    max-width: 100%;
+}
 
 
 
@@ -318,6 +321,7 @@ footer {
 
     .img-vertical {
         display: flex;
+        max-width: 100%;
     }
 }
 
