@@ -111,15 +111,18 @@ test de grid mais trop rigide
 #j11 { background-image: url(../img/img4.jpg);background-size: cover;
     z-index: -1; background-repeat: no-repeat; }
 #j12 { background-image: url(../img/img11.jpg);background-size: cover;
-    z-index: -1; background-repeat: no-repeat; } */
+    z-index: -1; background-repeat: no-repeat; } 
 
 .id-mail {
     text-decoration: none;
     color: inherit;
+}*/
+
+header {
+    margin: 10px 20px 40px 20px;
 }
 
 .id {
-    margin: 10px;
     display: inline-block;
     width: 20%;
 }
@@ -127,14 +130,12 @@ test de grid mais trop rigide
 .about {
     display: inline-block;
     position: absolute;
-    margin: 10px;
     /*right: 0;*/
     text-align: right;
     width: 33%;
 }
 
 .contact {
-    margin: 10px;
     display: inline-block;
     width: 40%;
 }
@@ -206,15 +207,11 @@ footer {
         background-image: url(../img/img4.jpg);
     }
 }
+*/
 
-/*ici c'est les style pour chaque type de template, minimum 3 éléments :
-une div de description du contenu (et titre), une div de liens vers d'autres
-projets et une ou plusieurs images.*/
 .desc {
     max-width: 380px;
     padding: 15px;
-    /*border: solid 1px;
-    grid-area: d;*/
 }
 
 .desc-centered {
@@ -222,8 +219,6 @@ projets et une ou plusieurs images.*/
     padding: 20px;
     margin-left: auto;
     margin-right: auto;
-    /*border: solid 1px;
-    grid-area: d;*/
 }
 
 .link {
@@ -231,11 +226,6 @@ projets et une ou plusieurs images.*/
     z-index: 100;
     padding: 20px;
     margin-right: auto;
-    /* grid-area: l;
-    display: inline-block;
-    border: solid 1px;
-    right: 0;
-    position: absolute;*/
 }
 
 .link-right {
@@ -243,27 +233,39 @@ projets et une ou plusieurs images.*/
     z-index: 100;
     padding: 20px;
     margin-left: auto;
-    /* grid-area: l;
-    display: inline-block;
-    border: solid 1px;
-    right: 0;
-    position: absolute;*/
 }
 
-.img-project {
+.img-max {
     max-width: 100%;
     z-index: -1;
-    /* grid-area: i;
-    position: absolute;
-    margin: 0;*/
 }
 
+.img-big {
+    max-width: 65%;
+    z-index: -1;
+}
+
+.img-small {
+    max-width: 45%;
+    z-index: -1;
+}
+
+.img-tiny {
+    max-width: 30%;
+    z-index: -1;
+}
+
+
+/*used in bartholl's page*/
 .img-border {
-    max-width: 100%;
-    z-index: -1;
-    border: solid black 1px;
+    box-sizing: content-box;
+    border: 1px solid black;
+    max-width: 40%;
 }
 
+.img-vertical {
+    display: none;
+}
 
 
 
@@ -274,6 +276,8 @@ projets et une ou plusieurs images.*/
         justify-content: space-between;
     }
 }
+
+
 
 @media only screen and (max-width:800px) {
     h1 {
@@ -288,37 +292,89 @@ projets et une ou plusieurs images.*/
         background-size: 100%;
         left: 45%;
         /*top: -150px;*/
+    }
+    .img-tiny {
+        max-width: 100%;
+    }
 
+    .img-big {
+        max-width: 100%;
+    }
+
+    .img-small {
+        max-width: 100%;
+    }
+
+/*used in bartholl's page*/
+    .img-border {
+        box-sizing: content-box;
+        border: 1px solid black;
+        max-width: 100%;
+    }
+
+    .img-horizontal {
+        display: none;
+    }
+
+    .img-vertical {
+        display: flex;
     }
 }
 
-@media only screen and (max-width:500px) {
+
+
+@media only screen and (max-width:666px) {
     #home-image {
         display: none;
     }
-    
+
+    figure {
+        margin-right: 0;
+        margin-left: 0;
+    }
+
+    .img-tiny {
+        max-width: 100%;
+    }
+
+    .img-big {
+        max-width: 100%;
+    }
+
+    .img-small {
+        max-width: 100%;
+    }
+
     h1 {
         font-size: smaller;
     }    
 
+    header {
+        margin-bottom: 60px;
+    }
+
     .id {
-    margin: 10px;
-    display: block;
-    width: 100%;
+        margin: 10px;
+        display: block;
+        width: 100%;
     }
 
     .about {
-    margin: 10px;
-    display: block;
-    width: 100%;
-    text-align: left;
-    position: static;
+        margin: 10px;
+        display: block;
+        width: 100%;
+        text-align: right;
+        position: static;
     }
 
     .contact {
-    margin: 10px;
-    display: block;
-    width: 100%;
+        margin: 10px;
+        display: block;
+        width: 100%;
+    }
+
+    .desc {
+        padding: 0px;
     }
 
     footer {
