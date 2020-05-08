@@ -320,7 +320,6 @@ footer {
     }
 
     .img-vertical {
-        display: flex;
         max-width: 100%;
     }
 }
@@ -346,6 +345,21 @@ footer {
     }
 
     .img-small {
+        max-width: 100%;
+    }
+
+    /*used in bartholl's page*/
+    .img-border {
+        box-sizing: content-box;
+        border: 1px solid black;
+        max-width: 100%;
+    }
+
+    .img-horizontal {
+        display: none;
+    }
+
+    .img-vertical {
         max-width: 100%;
     }
 
