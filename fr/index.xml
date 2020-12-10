@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Frs on Caroline Sorin</title>
@@ -6,11 +6,7 @@
     <description>Recent content in Frs on Caroline Sorin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 Jan 2018 18:32:46 +0100</lastBuildDate>
-    
-	<atom:link href="https://carolinesorin.com/fr/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 11 Jan 2018 18:33:56 +0100</lastBuildDate><atom:link href="https://carolinesorin.com/fr/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Not in my Backyard</title>
       <link>https://carolinesorin.com/fr/backyard/</link>
@@ -46,8 +42,8 @@ Dérive
       <pubDate>Thu, 11 Jan 2018 18:33:29 +0100</pubDate>
       
       <guid>https://carolinesorin.com/fr/argent/</guid>
-      <description>Donne-moi tout ton argent Magazine réalisé à quatre mains avec Andréa Corvo. Une enquête anthropologique au centre commercial.
-21 x 29,7 cm, 50 pages, impression laser et sérigraphie, dos carré-collé, dix exemplaires, 2015
+      <description> Donne-moi tout ton argent Magazine réalisé à quatre mains avec Andréa Corvo. Une enquête anthropologique au centre commercial.
+21 x 29,7 cm, 50 pages, impression laser et sérigraphie, dos carré-collé, dix exemplaires, 2015
 Textes et mise en page : Andréa Corvo &amp;amp; Caroline Sorin
 Dessins : Caroline Sorin
 Photographies : Andréa Corvo
@@ -56,7 +52,8 @@ Suivi : Jérôme Saint-Loubert Bié
 Intra-muros
 Confiture
 Not in my Backyard
-Top 10 Italia</description>
+Exemplaires
+   </description>
     </item>
     
     <item>
@@ -82,7 +79,8 @@ Exemplaires
       <pubDate>Thu, 11 Jan 2018 18:32:20 +0100</pubDate>
       
       <guid>https://carolinesorin.com/fr/belgian/</guid>
-      <description>The Belgian Cookbook À partir d’un texte donné et sur le même Framapad, quinze étudiants connectés expérimentent la mise en page papier avec les outils du web. Workshop dirigé par Stéphanie Vilayphiou et Colm O’Neill de OSP. Projet réalisé avec So-Hyun Bae.
+      <description>The Belgian Cookbook À partir d’un texte donné et sur le même Framapad, quinze étudiants connectés expérimentent la mise en page papier avec les outils du web.
+Workshop dirigé par Stéphanie Vilayphiou et Colm O&amp;rsquo;Neill de OSP. Projet réalisé avec So-Hyun Bae.
 10,5 x 14,8 cm, 300 cartes et une boîte en papier, 2015
  À propos du workshop :
 http://osp.kitchen/workshop/strasbourg-html2print/
@@ -99,10 +97,10 @@ The Machine in the Ghost</description>
       <pubDate>Thu, 11 Jan 2018 18:18:42 +0100</pubDate>
       
       <guid>https://carolinesorin.com/fr/lato/</guid>
-      <description>Lato - Petit dictionnaire de l’open source Spécimen typographique bilingue pour la typographie libre Lato. À la fois poster recto verso et livret présentant une sélection de mots clés de l’open source et leur définition.
+      <description>Lato - Petit dictionnaire de l&amp;rsquo;open source Spécimen typographique bilingue pour la typographie libre Lato. À la fois poster recto verso et livret présentant une sélection de mots clés de l&amp;rsquo;open source et leur définition.
 20 livrets-posters, 29,7 x 42 cm à plat et 10,5 x 14,8 cm plié, impression laser, 2016
 Suivi : Yohanna-My Nguyen
-   Autres projets :
+  Autres projets :
 Exemplaires
 The Belgian Cookbook
 The Machine in the Ghost</description>
@@ -119,24 +117,6 @@ Livre présenté dans le cadre de l’exposition Haunted by Algorithms créée p
     </item>
     
     <item>
-      <title>Top 10 Italia</title>
-      <link>https://carolinesorin.com/fr/italia/</link>
-      <pubDate>Thu, 11 Jan 2018 18:31:20 +0100</pubDate>
-      
-      <guid>https://carolinesorin.com/fr/italia/</guid>
-      <description>  Top 10 Italia Spécimen typographique reprenant des paroles emblématiques de chansons italiennes des années 80 ainsi que leur traduction approximative. La taille des textes est proportionnelle au nombre de ventes de l’artiste.
-18 x 27 cm, impression numérique laser, reliure trois points, 2017
-Suivi : Yohanna-My Nguyen
-    Autres projets :
-Intra-muros
-Confiture
-Donne-moi tout ton argent
-Not in my Backyard
-Lato
-  </description>
-    </item>
-    
-    <item>
       <title>92110</title>
       <link>https://carolinesorin.com/fr/92110/</link>
       <pubDate>Thu, 11 Jan 2018 18:31:46 +0100</pubDate>
@@ -149,7 +129,7 @@ Image manquante
 Long-Distance Memories
 Dérive
 Intra-muros
-     </description>
+    </description>
     </item>
     
     <item>
@@ -166,7 +146,7 @@ Suivi : Philippe Delangle
 Intra-muros
 Donne-moi tout ton argent
 Not in my Backyard
-Top 10 Italia</description>
+Dérive</description>
     </item>
     
     <item>
@@ -217,7 +197,6 @@ The Machine in the Ghost
 Confiture
 Donne-moi tout ton argent
 Not in my Backyard
-Top 10 Italia
 Mash Up
  Intra-muros Où finit Paris ? Où commence la banlieue ? La frontière administrative est-elle la seule trace du passage d’une ville à l’autre ? Depuis cette ligne invisible, j’ai photographié chaque côté de la ville à l’endroit où elle change de nom.
 21 x 29,7 cm, 40 pages, impression numérique laser, piqûre à cheval, 2017</description>
@@ -251,7 +230,6 @@ Mash Up
  Munich : 9,5 x 21 cm, 20 pages, impression numérique laser, 2018
    Autres projets :
 The Belgian Cookbook
-Top 10 Italia
 Image manquante
 Long-Distance Memories
     </description>

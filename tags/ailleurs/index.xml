@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ailleurs on Caroline Sorin</title>
+    <link>https://carolinesorin.com/tags/ailleurs/</link>
+    <description>Recent content in ailleurs on Caroline Sorin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://carolinesorin.com/tags/ailleurs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ailleurs</title>
+      <link>https://carolinesorin.com/fr/ailleurs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://carolinesorin.com/fr/ailleurs/</guid>
+      <description>Ailleurs Rapport d&amp;rsquo;échange et rapport de stage documentant de façon plus ou moins précise mes aventures européennes.
+ Rotterdam : 12 x 15 cm, 42 pages, impression numérique laser, reliure spirale, 2018
+ Munich : 9,5 x 21 cm, 20 pages, impression numérique laser, 2018
+   Autres projets :
+The Belgian Cookbook
+Image manquante
+Long-Distance Memories
+    </description>
+    </item>
+    
+    <item>
+      <title>Elsewhere</title>
+      <link>https://carolinesorin.com/en/ailleurs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://carolinesorin.com/en/ailleurs/</guid>
+      <description>Elsewhere Internship and exchange reports loosely documenting my European adventures.
+ Rotterdam: 12 x 15 cm, 42 pages, digital printing, wire o binding, 2018
+ Munich: 9,5 x 21 cm, 20 pages, digital printing, 2018
+   Other projects:
+The Belgian Cookbook
+Image manquante
+Long-Distance Memories
+    </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Abouts on Caroline Sorin</title>
@@ -6,11 +6,7 @@
     <description>Recent content in Abouts on Caroline Sorin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Nov 2017 19:10:09 +0100</lastBuildDate>
-    
-	<atom:link href="https://carolinesorin.com/about/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 30 Nov 2017 19:10:09 +0100</lastBuildDate><atom:link href="https://carolinesorin.com/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>https://carolinesorin.com/about/about_en/</link>
@@ -30,8 +26,7 @@ June 2017
 Editorial design and video making
 July - September 2018
 Visual communication for Is this you in the video?
-and Morituri te salutant !
-Posters, flyers and digital communication</description>
+and Morituri te salutant ! Posters, flyers and digital communication</description>
     </item>
     
     <item>

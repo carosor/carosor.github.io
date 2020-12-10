@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ens on Caroline Sorin</title>
@@ -6,11 +6,7 @@
     <description>Recent content in Ens on Caroline Sorin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 Jan 2018 18:32:46 +0100</lastBuildDate>
-    
-	<atom:link href="https://carolinesorin.com/en/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 11 Jan 2018 18:33:56 +0100</lastBuildDate><atom:link href="https://carolinesorin.com/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Not in my Backyard</title>
       <link>https://carolinesorin.com/en/backyard/</link>
@@ -51,7 +47,6 @@ A magazine made with Andréa Corvo. An analytical approach of a French mall and
 Intra-muros
 Confiture
 Not in my Backyard
-Top 10 Italia
 Exemplaires
    </description>
     </item>
@@ -80,7 +75,7 @@ Exemplaires
       
       <guid>https://carolinesorin.com/en/belgian/</guid>
       <description>The Belgian Cookbook Fifteen connected students worked on the same Framapad, trying out print design with web tools.
-Workshop under the direction of Stéphanie Vilayphiou and Colm O’Neill from OSP. Project made with So-Hyun Bae.
+Workshop under the direction of Stéphanie Vilayphiou and Colm O&amp;rsquo;Neill from OSP. Project made with So-Hyun Bae.
 10,5 x 14,8 cm, 300 index cards and a paper box, laser print, 2015
  About the workshop (articles in French):
 http://osp.kitchen/workshop/strasbourg-html2print/
@@ -100,13 +95,13 @@ Mash Up</description>
       <guid>https://carolinesorin.com/en/lato/</guid>
       <description>Lato - A Small Open Source Dictionary Typographic specimen, poster and booklet at the same time. Presenting words of the open source world and their definitions, using the Lato free font.
 20 posters-booklets of 29,7 x 42 cm (flat) and 10,5 x 14,8 cm when folded, laser print, 2016
-   Other projects:
+  Other projects:
 Exemplaires
 The Belgian Cookbook
 The Machine in the Ghost
 Mash Up
 Long-Distance Memories
-  </description>
+   </description>
     </item>
     
     <item>
@@ -117,23 +112,6 @@ Long-Distance Memories
       <guid>https://carolinesorin.com/en/machine/</guid>
       <description>The Machine in the Ghost A book confronting ghosts of the past with those of the present. Putting myself in the shoes of an early 20th century medium, I too, manipulate pictures to show the world the utlimate proof that spirits are all around us (and especially in our computers).
 Book presented during the exhibition Haunted by Algorithms curated by Jeff Guess and Gwenola Wagon, at Galerie Ygrec](http://www.ensapc.fr/fr/ygrec/galerie), Paris (21 january to 5 march 2017).</description>
-    </item>
-    
-    <item>
-      <title>Top 10 Italia</title>
-      <link>https://carolinesorin.com/en/italia/</link>
-      <pubDate>Thu, 11 Jan 2018 18:31:20 +0100</pubDate>
-      
-      <guid>https://carolinesorin.com/en/italia/</guid>
-      <description>  Top 10 Italia A typographic specimen of the Italia font, using emblematic lyrics of famous Italian pop songs of the eighties to present the typeface. The size of the extracts depends on the selling numbers of the artist.
-18 x 27 cm, laser print, saddle stitch binding, 2017
-    Other projects:
-Intra-muros
-Confiture
-Donne-moi tout ton argent
-Not in my Backyard
-Lato
-  </description>
     </item>
     
     <item>
@@ -149,7 +127,7 @@ Image manquante
 Long-Distance Memories
 Dérive
 Intra-muros
-     </description>
+    </description>
     </item>
     
     <item>
@@ -197,8 +175,8 @@ The Machine in the Ghost
       <pubDate>Wed, 13 Dec 2017 18:34:04 +0100</pubDate>
       
       <guid>https://carolinesorin.com/en/exemplaires/</guid>
-      <description>Imprimer l&amp;rsquo;exposition Catalogue produced for the 2017 biennal &amp;ldquo;Exemplaires, formes et pratiques de l’édition” (Exemplars, forms and practices in publishing). It presents the HEAR&amp;rsquo;s book selection (on the topic of exhibition catalogues). Analytical texts and reproductions of the books are accompanied by three interviews with artists and graphic designers. This project is a teamwork where we all four created the content (words and pictures) and designed the form.
-Part of the exhibition “Exemplaires, formes et pratiques de l’édition” curated by HEAR students, at La Chaufferie, Strasbourg (30 March to 30 April 2017).</description>
+      <description>Imprimer l&amp;rsquo;exposition Catalogue produced for the 2017 biennal &amp;ldquo;Exemplaires, formes et pratiques de l’édition&amp;rdquo; (Exemplars, forms and practices in publishing). It presents the HEAR&amp;rsquo;s book selection (on the topic of exhibition catalogues). Analytical texts and reproductions of the books are accompanied by three interviews with artists and graphic designers. This project is a teamwork where we all four created the content (words and pictures) and designed the form.
+Part of the exhibition &amp;ldquo;Exemplaires, formes et pratiques de l’édition&amp;rdquo; curated by HEAR students, at La Chaufferie, Strasbourg (30 March to 30 April 2017).</description>
     </item>
     
     <item>
@@ -211,7 +189,6 @@ Part of the exhibition “Exemplaires, formes et pratiques de l’édition” cu
 Confiture
 Donne-moi tout ton argent
 Not in my Backyard
-Top 10 Italia
 Mash Up
  Intra-muros Where does Paris begin? Is the official border the only evidence of passing from one city another? Standing on this invisible line, I photographed each side of the city where it changes its name.
 21 x 29,7 cm, 40 pages, laser print, saddle stitch binding, 2017
@@ -245,7 +222,6 @@ Mash Up
  Munich: 9,5 x 21 cm, 20 pages, digital printing, 2018
    Other projects:
 The Belgian Cookbook
-Top 10 Italia
 Image manquante
 Long-Distance Memories
     </description>

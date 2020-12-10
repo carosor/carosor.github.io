@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>machine on Caroline Sorin</title>
+    <link>https://carolinesorin.com/tags/machine/</link>
+    <description>Recent content in machine on Caroline Sorin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 11 Jan 2018 18:31:06 +0100</lastBuildDate><atom:link href="https://carolinesorin.com/tags/machine/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Machine in the Ghost</title>
+      <link>https://carolinesorin.com/en/machine/</link>
+      <pubDate>Thu, 11 Jan 2018 18:31:06 +0100</pubDate>
+      
+      <guid>https://carolinesorin.com/en/machine/</guid>
+      <description>The Machine in the Ghost A book confronting ghosts of the past with those of the present. Putting myself in the shoes of an early 20th century medium, I too, manipulate pictures to show the world the utlimate proof that spirits are all around us (and especially in our computers).
+Book presented during the exhibition Haunted by Algorithms curated by Jeff Guess and Gwenola Wagon, at Galerie Ygrec](http://www.ensapc.fr/fr/ygrec/galerie), Paris (21 january to 5 march 2017).</description>
+    </item>
+    
+    <item>
+      <title>The Machine in the Ghost</title>
+      <link>https://carolinesorin.com/fr/machine/</link>
+      <pubDate>Thu, 11 Jan 2018 18:31:06 +0100</pubDate>
+      
+      <guid>https://carolinesorin.com/fr/machine/</guid>
+      <description>The Machine in the Ghost Confronter les fantômes et les regards à un siècle de distance. Manipuler les images, à la manière d’un médium du XIXe siècle, en laissant l’ordinateur révéler la présence d’esprits et créer de nouveaux fantômes faits de données détériorées.
+Livre présenté dans le cadre de l’exposition Haunted by Algorithms créée par Jeff Guess et Gwenola Wagon à la Galerie Ygrec, Paris (du 21 janvier au 5 mars 2017).</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -2,15 +2,8 @@ body {
     font-family: "Terminal Grotesque", Arial, sans-serif;
     color: black;
     font-weight: normal;
-    padding : 30px;
-}
-
-h1 {
-    display : inline-block;
-    margin : 0 auto;
-    padding : 0;
-    font-family: "Terminal Grotesque Open", Arial, sans-serif;
-    font-weight: normal;
+    padding : 3%;
+    font-size: medium;
 }
 
 h3 {
@@ -50,73 +43,6 @@ img {
     justify-content: space-between;
 }
 
-/*
-.grid {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    /*grid-auto-columns: minimax(100px, auto)
-    margin: 40px 10px 10px 10px;
-    grid-gap: 20px;
-    grid-template-areas:
-        "d i"
-        "ii ii"
-        "iii l";
-}*/
-
-/*
-test de flexbox mais pas assez précis, j'aimerais aligner à gauche
-test de grid mais trop rigide
-
-
- .wrapper {
-    display: flex;
-    position: absolute;
-    top: 0;
-    bottom: 0;
-    left: 0;
-    right: 0;
-
-}
-.jumbotron {
-    position: absolute;
-    top: 0;
-    bottom: 0;
-    left: 0;
-    right: 0;
-
-    background-size: cover;
-    z-index: -1;
-}
-
-#j1 { background-image: url(../img/img7.jpg);background-size: cover;
-    z-index: -1; background-repeat: no-repeat; }
-#j2 { background-image: url(../img/img9.jpg);background-size: cover;
-    z-index: -1; background-repeat: no-repeat; }
-#j3 { background-image: url(../img/img10.jpg);background-size: cover;
-    z-index: -1; background-repeat: no-repeat; }
-#j4 { background-image: url(../img/img5.jpg);background-size: cover;
-    z-index: -1; background-repeat: no-repeat; }
-#j5 { background-image: url(../img/img6.jpg);background-size: cover;
-    z-index: -1; background-repeat: no-repeat; }
-#j6 { background-image: url(../img/img.jpg);background-size: cover;
-    z-index: -1; background-repeat: no-repeat; }
-#j7 { background-image: url(../img/img2.jpg);background-size: cover;
-    z-index: -1; background-repeat: no-repeat; }
-#j8 { background-image: url(../img/img12.jpg);background-size: cover;
-    z-index: -1; background-repeat: no-repeat; }
-#j9 { background-image: url(../img/img8.jpg);background-size: cover;
-    z-index: -1; background-repeat: no-repeat; }
-#j10 { background-image: url(../img/img3.jpg);background-size: cover;
-    z-index: -1; background-repeat: no-repeat; }
-#j11 { background-image: url(../img/img4.jpg);background-size: cover;
-    z-index: -1; background-repeat: no-repeat; }
-#j12 { background-image: url(../img/img11.jpg);background-size: cover;
-    z-index: -1; background-repeat: no-repeat; } 
-
-.id-mail {
-    text-decoration: none;
-    color: inherit;
-}*/
 
 header {
     margin: 10px 20px 40px 20px;
@@ -141,54 +67,27 @@ header {
 }
 
 
-section {
+#main-section {
     margin-top: 3%;
-}
-
-.home-title {
-    font-size: 20pt;
-}
-
-.title-box {
-    /*margin: auto;
-    max-width: 700px;*/
-    padding-bottom: 20px;
-    z-index: 100;
-}
-
-#home-image {
-    /*margin: auto;*/
-    width: 650px;
-    height: 415px;
-    background-image: url(../img/couv_2.jpg);
-    background-repeat: no-repeat;
-    background-size: 100%;
-    z-index: -100;
-    position: relative;
-    /*top: -100px;*/
-    left: 5%;
 }
 
 
 footer {
     margin-top: 5%;
-    position: absolute;
+    margin-bottom: 5%;
     width: 95%;
+    padding: 10px;
 }
 
 .lang {
     display: inline-block;
-    margin-left: 10px;
-    margin-bottom: 20px;
-    margin-top: 10px;
+    width: 49%;
 }
 
 .scrolltop {
-    margin-right: 30px;
-    margin-top: 10px;
-    margin-bottom: 20px;
-    right: 0;
-    position: absolute;
+    display: inline-block;
+    text-align: right;
+    width: 49%;
 }
 
 
@@ -201,13 +100,6 @@ footer {
     grid-area: d;*/
 }
 
-/*les id suivantes correspondent aux titres-liens de la home page
-#confiture:hover {
-    #home-image {
-        background-image: url(../img/img4.jpg);
-    }
-}
-*/
 
 .desc {
     max-width: 380px;
@@ -278,24 +170,13 @@ footer {
     .flex {
         justify-content: space-between;
     }
+
 }
 
 
 
 @media only screen and (max-width:800px) {
-    h1 {
-        font-size: smaller;
-    }
-        #home-image {
-        /*margin: auto;*/
-        width: 350px;
-        height: 415px;
-        background-image: url(../img/couv_2.jpg);
-        background-repeat: no-repeat;
-        background-size: 100%;
-        left: 45%;
-        /*top: -150px;*/
-    }
+
     .img-tiny {
         max-width: 100%;
     }
@@ -328,13 +209,16 @@ footer {
 
 
 @media only screen and (max-width:666px) {
-    #home-image {
-        display: none;
+    
+    body {
+        padding: 4%;
     }
 
     figure {
         margin-right: 0;
         margin-left: 0;
+        margin-top: 0.5em;
+        margin-bottom: 0.5em;
     }
 
     .img-tiny {
@@ -349,12 +233,8 @@ footer {
         max-width: 100%;
     }
 
-    h1 {
-        font-size: smaller;
-    }    
-
     header {
-        margin-bottom: 60px;
+        margin-bottom: 20px;
     }
 
     .id {
@@ -387,5 +267,6 @@ footer {
 
     section {
         margin-top: 10%;
+        padding: 5%;
     }
 }
